@@ -1,16 +1,16 @@
 {
-  "name": "prince-mdx",
+  "name": "godefroid-braveman",
   "version": "3.0.0",
-  "description": "I am PRINCE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
+  "description": "I am GODEFROID BRAVEMAN, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://files.catbox.moe/ykdtkm.jpeg",
   "logo": "https://files.catbox.moe/52699c.jpg",
-  "keywords": ["prince-md", "Prince mdx","prince mdxi","PRINCE-MDXI"],
-  "repository": "https://github.com/Mayelprince/PRINCE-MDXI",
+  "keywords": ["godefroid-braveman", "godefroid braveman","godefroid braveman","GODEFROID-BRAVEMAN"],
+  "repository": "https://github.com/mayobogodefroid/GODEFROID-BRAVEMAN",
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
+      "description": "Put your session-id here. Must Start with 'GODEFROID-BRAVEMAN~'",
       "required": true,
       "value": ""
     },  
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "GODEFROID"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "243970705774"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -119,12 +119,12 @@
     "ANTICALL_MSG": {
       "description": "Put Your own Anticall Message the bot will send after rejecting calls",
       "required": false,
-      "value": "*_📞 Auto Call Reject Mode Activated by PRINCE-MDX. 📵 No Calls Allowed!_*"
+      "value": "*_📞 Auto Call Reject Mode Activated by GODEFROID-BRAVEMAN. 📵 No Calls Allowed!_*"
     },
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗"
+      "value": "GODEFROID-BRAVEMAN"
     },
     
     "PACK_NAME": {
