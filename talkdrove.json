@@ -1,14 +1,14 @@
 {
-  "bot-name": "PRINCE-MDXI",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ",
-  "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
+  "bot-name": "GODEFROID-BRAVEMAN",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ GODEFROID ᴛᴇᴄʜ",
+  "logo": "https://raw.githubusercontent.com/mayobogodefroid/url/main/url/1264.jpg",
   "keywords": ["bot"],
-  "documentation-link": "https://princeweb.onrender.com",
-  "owner-verification": "princemayel99@gmail.com",
+  "documentation-link": "https://godefroidweb.onrender.com",
+  "owner-verification": "baruaningongo254@gmail.com",
   
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'PRINCE-MDX~'",
+      "description": "Must Start with 'GODEFROID-BRAVEMAN~'",
       "required": true,
       "value": ""
     },  
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Prince Tech"
+      "value": "godefroid Tech"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "243970705774"
     },
     
    
